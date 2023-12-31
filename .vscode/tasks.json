@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\sharm\\OneDrive\\Desktop\\React Project\\New folder",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
